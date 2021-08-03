@@ -1,0 +1,31 @@
+@use 'mixins';
+
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  line-height: 1.5;
+}
+a {
+  text-decoration: none;
+}
+.body {
+  min-height: 100vh;
+}
+
+@include mixins.tablet() {
+}
+@include mixins.laptop() {
+}
+@include mixins.desktop() {
+}
