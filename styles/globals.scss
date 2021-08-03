@@ -15,12 +15,17 @@ html {
 }
 body {
   line-height: 1.5;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 a {
   text-decoration: none;
 }
 .body {
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 @include mixins.tablet() {
