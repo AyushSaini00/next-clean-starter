@@ -30,6 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Basic CSS reset
 - Default responsive media queries for tablet, laptop and desktop breakpoints
 - Styles structure orgainzed
+- Prettier as dev dependency
 
 ## Learn More
 
