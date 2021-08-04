@@ -2,6 +2,10 @@
 
 My go-to project starter template for Next.js apps. Inspired by [my portfolio](https://ayushsaini.com)
 
+## 👓 Preview
+
+Preview it on [stackblitz](https://stackblitz.com/github/AyushSaini00/next-clean-starter) without installing anything locally.
+
 ## 🚀 Getting Started
 
 First, run the following command to create a new project:
