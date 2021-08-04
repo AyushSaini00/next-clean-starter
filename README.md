@@ -1,6 +1,6 @@
 # Next Clean Starter
 
-My go-to project starter template for Next.js apps. Inspired by [https://ayushsaini.com](my portfolio)
+My go-to project starter template for Next.js apps. Inspired by [my portfolio](https://ayushsaini.com)
 
 ## 🚀 Getting Started
 
@@ -34,7 +34,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about Next.js and Sass, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [SASS guide](https://sass-lang.com/guide) - learn about SASS
