@@ -12,7 +12,11 @@ First, run the following command to create a new project:
 
 ```bash
 npx create-next-app my-app -e https://github.com/AyushSaini00/next-clean-starter
+```
+
 # or
+
+```bash
 yarn create next-app my-app -e https://github.com/AyushSaini00/next-clean-starter
 ```
 
@@ -20,7 +24,11 @@ After the installation of the project, navigate to the project directory and run
 
 ```bash
 npm run dev
+```
+
 # or
+
+```bash
 yarn dev
 ```
 
